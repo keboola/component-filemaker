@@ -1,1 +1,1 @@
-FileMaker is a cross-platform relational database application from Claris International. Sync layouts via Data API.
+Extracts FileMaker layout data and metadata.
